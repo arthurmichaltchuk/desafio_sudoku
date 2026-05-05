@@ -1,0 +1,16 @@
+{
+  "name": "desafio-sudoku-starter",
+  "version": "1.0.0",
+  "description": "Desafio 01 do Workshop de Lógica — Validador de Sudoku",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "tsx src/tests.ts",
+    "start": "tsx src/tests.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}
