@@ -2,6 +2,8 @@
 
 Workshop de Desenvolvimento · Sistemas de Informação
 
+[Apresentação em slides](https://docs.google.com/presentation/d/1_U-MdWo8Z3iAtZkBbMa80ZuITXnv2mUDacXNGIF-OuU/edit?usp=sharing)
+
 ---
 
 ## O que é isso
