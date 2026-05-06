@@ -14,7 +14,8 @@
  * =============================================================
  */
 
-import { validar, type Board } from "./desafio.ts";
+import { validar, type Board } from "./desafio_resolvido.ts";
+// import { validar, type Board } from "./desafio.ts";
 
 // -------------------------------------------------------------
 //  Mini test runner (sem dependências externas)
