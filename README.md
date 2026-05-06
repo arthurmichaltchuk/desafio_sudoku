@@ -1,6 +1,8 @@
 # Desafio — Validador de Sudoku
 
-Workshop de Lógica · Sistemas de Informação
+Workshop de Desenvolvimento · Sistemas de Informação
+
+[Apresentação em slides](https://docs.google.com/presentation/d/1_U-MdWo8Z3iAtZkBbMa80ZuITXnv2mUDacXNGIF-OuU/edit?usp=sharing)
 
 ---
 
@@ -74,6 +76,5 @@ Você implementa **uma função só**. Os níveis representam a evolução da su
 - Sem IA. Sem ChatGPT, Copilot, Claude.
 - Trabalho em equipe é incentivado.
 - Defesa oral obrigatória ao final.
-- A documentação oficial do TypeScript / Node está liberada.
 
 Boa sorte.
